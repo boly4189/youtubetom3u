@@ -1,19 +1,21 @@
 ## FORMAT: <channel name> - <Country>
+中天新聞 - Taiwan
+https://www.youtube.com/watch?v=_QbRXRnHMVY
+
+TVBS新聞 - Taiwan
+https://www.youtube.com/watch?v=wVOVZCqZT64
 
 東森新聞 - Taiwan
 https://www.youtube.com/watch?v=R2iMq5LKXco
-
-東森財經 - Taiwan
-https://www.youtube.com/watch?v=ABn_ccXn_jc
-
-TVBS新聞 - Taiwan
-https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 台視新聞 - Taiwan
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
 民視新聞 - Taiwan
-https://www.youtube.com/watch?v=XGEmg3vhrzU
+https://www.youtube.com/watch?v=yguQ1SzPM5U
+
+三立海外直播- Taiwan
+https://www.youtube.com/watch?v=FoBfXvlOR6I
 
 華視新聞 - Taiwan
 https://www.youtube.com/watch?v=yUTy1U1wTwE
