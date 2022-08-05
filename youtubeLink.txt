@@ -1,9 +1,12 @@
 ## FORMAT: <channel name> - <Country>
+ABC News (Australia) - English
+https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q/live
+
 中天新聞 - Taiwan
 https://www.youtube.com/watch?v=_QbRXRnHMVY
 
 TVBS新聞 - Taiwan
-https://www.youtube.com/watch?v=kqvfugYicGw
+https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 東森新聞 - Taiwan
 https://www.youtube.com/watch?v=R2iMq5LKXco
@@ -26,11 +29,17 @@ https://www.youtube.com/watch?v=FoBfXvlOR6I
 Taiwan EBC - Taiwan
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
-Al Jazeera English - English
+Al Jazeera - English
+https://www.youtube.com/user/AlJazeeraEnglish/live
+
+Al Jazeera - English
 https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live
 
 CGTN News - English
 https://www.youtube.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg/live
+
+GBNews - English
+https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live
 
 Euronews - English
 https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
@@ -38,20 +47,20 @@ https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
 DW News - English 
 https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live
 
-WION - English
-https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
-
 FRANCE 24 - English 
 https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg/live
+
+WION - English
+https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
 
 ABC News - English
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
+Sky News - English
+https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
+
 TRT World - English
 https://www.youtube.com/c/trtworld/live
-
-Al Jazeera - English
-https://www.youtube.com/user/AlJazeeraEnglish/live
 
 CNA - English
 https://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/live
@@ -60,22 +69,19 @@ United Nations - English
 https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw/live
 
 ANews - English
-https://www.youtube.com/channel/UC-LRBEUet4xX2fRB3JitFxg/live
+https://www.youtube.com/watch?v=9-KuWZ_R6uY
 
 Sky News - English
 https://www.youtube.com/watch?v=9Auq9mYxFEE/live
 
 Newsmax TV - English
-https://www.youtube.com/channel/UCx6h-dWzJ5NpAlja1YsApdg/live
+https://www.youtube.com/watch?v=6OodtZU1W9U
 
 NBC News - English 
-https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live
+https://www.youtube.com/watch?v=Vzm84nJZIqM
 
 africanews - English
 https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live
-
-TeleSUR - English
-https://www.youtube.com/channel/UCmuTmpLY35O3csvhyA6vrkg/live
 
 NewsX - English
 https://www.youtube.com/channel/UCytSP0M0Jdnw6qIy3Y-nTig/live
